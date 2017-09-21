@@ -1,2 +1,2 @@
 # copia
-CS491/2 Senior Project Webpage
+CS491 Senior Project Webpage
